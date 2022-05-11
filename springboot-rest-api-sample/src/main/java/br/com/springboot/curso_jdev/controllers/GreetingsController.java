@@ -33,6 +33,8 @@ public class GreetingsController {
      * @return greeting text
      */
 	
+	//mvn cleas package
+	
 	//Usar da Interface
 	@Autowired /* Injeção de dependência*/
 	private UsuarioRepository usuarioRepository; 
